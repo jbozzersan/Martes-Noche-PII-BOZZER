@@ -3,3 +3,5 @@
 GRUPO MAÑANITA
 Integrantes:
 Valentina Merlo
+Julian Fevola
+Victoria Rodriguez Burgos
