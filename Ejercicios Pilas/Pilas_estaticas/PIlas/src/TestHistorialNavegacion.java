@@ -1,7 +1,7 @@
 import Implementacion.Estrategia_1_String;
 import Interfaces.PilaTDAString;
 
-public class mainTest {
+public class TestHistorialNavegacion {
     public static void main(String[] args) {
 
         PilaTDAString p1 = new Estrategia_1_String();
